@@ -1,0 +1,37 @@
+# Ignore class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore dependency directories
+/target/
+/build/
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore Java package-specific files
+*.jar
+*.war
+*.ear
+
+# Ignore Maven wrapper files
+.mvn/
+
+# Ignore IntelliJ project files
+*.iml
+
+# Ignore Eclipse project files
+.project
+.classpath
+
+# Ignore JRebel and other local configuration files
+rebel.xml
+
+# Ignore Mac OS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
